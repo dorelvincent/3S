@@ -1,4 +1,4 @@
 <?php
-tu as dis quoi à sam?
+tu lui as dit quoi?
 dernier test
 ?>
