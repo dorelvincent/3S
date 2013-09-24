@@ -7,7 +7,7 @@
     <body>
         <?php
         Est-ce que tu vois la modification?
-        Oui Arnaud EST UNE GROSSE PUTE J'AI DIS'
+        Je suis UNE GROSSE PUTE J'AI DIS' (Vincent)
         ?>
     </body>
 </html>
