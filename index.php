@@ -8,6 +8,7 @@
         <?php
         Est-ce que tu vois la modification?
         Je suis UNE GROSSE PUTE J'AI DIS' (Vincent)
+        Bonsoir Magic!Madame
         ?>
     </body>
 </html>
