@@ -7,6 +7,7 @@
     <body>
         <?php
         Est-ce que tu vois la modification?
+        Oui grosse pute
         ?>
     </body>
 </html>
