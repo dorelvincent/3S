@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        
+        Est-ce que tu vois la modification?
         ?>
     </body>
 </html>
