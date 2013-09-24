@@ -7,7 +7,7 @@
     <body>
         <?php
         Est-ce que tu vois la modification?
-        Oui grosse pute
+        Oui Arnaud le plus fort au monde !
         ?>
     </body>
 </html>
