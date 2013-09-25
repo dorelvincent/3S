@@ -6,7 +6,6 @@ class Utilisateur
 	private $v_login;
 	private $v_pass;
 	private $v_mail;
-	private 
 	
 	
 	/********** Constructeur ************/
