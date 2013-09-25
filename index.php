@@ -6,8 +6,7 @@
     </head>
     <body>
         <?php
-        Est-ce que tu vois la modification?
-        Bonsoir Madame: Magic:!
+        
         ?>
     </body>
 </html>
