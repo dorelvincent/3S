@@ -1,9 +1,5 @@
-        <?php 
-            include("util/head.php"); 
-         ?>
-	<div id="container">
-                <?php include 'util/main.php'; ?>
-	</div>
-        <?php      
-             include 'util/footer.php'; 
-         ?>
+<?php 
+    include "util/head.php"; 
+    include 'util/content.php';
+    include 'util/footer.php'; 
+ ?>

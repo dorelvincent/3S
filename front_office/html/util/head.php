@@ -10,6 +10,7 @@
 	</head>
 	<body>
     <div id="header">
-            <img src="../img/GrindHouse_Leather.png" alt="logo" id="logo"/>
+           <img src="../img/certifie.png" width="200" height="200" alt="logo" id="logo_certification"/>
+           <img src="../img/GrindHouse_Leather.png" alt="logo" id="logo"/>
     </div>
           
