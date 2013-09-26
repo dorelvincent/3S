@@ -9,7 +9,7 @@
     </div>
 
     <div id="search">
-            <p><input type="button" name="recherche" value="Recherche"; id="schearch" class="button_1" /></p>
+            <p><input type="button" name="recherche" value="Recherche" id="schearch" class="button_1" /></p>
             <p><input type="text" name="sch_txt" id="sch_txt" class="sch"/></p>
     </div>
 
