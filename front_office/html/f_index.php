@@ -1,13 +1,10 @@
-
-	<div id="main">
-
-		<?php include("util/head.php"); ?>
-		<?php include("util/menu.php"); ?>
-                <?php include("util/menu_left.php"); ?>
-	
-		<div id="footer">
-			<?php include("util/footer.php"); ?>	
-		</div>
+        <?php 
+            include("util/head.php"); 
+         ?>
+	<div id="content">
+                <?php include("util/main.php"); 
+                      include("util/footer.php"); 
+                ?>
 	</div>
 	</body>
 </html>

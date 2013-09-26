@@ -1,9 +1,3 @@
-	<div id="f-droite">
-				<p>droite</p>
-			</div>
-			<div id="f-centre">
-				<p>centre</p>
-			</div>
-			<div id="f-gauche">
-                    <p>gauche</p>
-	</div>
+<div id="foter">
+    <p><input type="text" name="conn" id="log" class="sch"/>
+</div>
