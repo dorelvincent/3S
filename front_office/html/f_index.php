@@ -1,10 +1,10 @@
         <?php 
             include("util/head.php"); 
          ?>
-	<div id="content">
-                <?php include("util/main.php"); 
-                      include("util/footer.php"); 
-                ?>
+	<div id="container">
+                <?php include("util/main.php"); ?>
 	</div>
-	</body>
-</html>
+
+           <?php      
+                include("util/footer.php"); 
+            ?>
