@@ -9,7 +9,7 @@
             <link rel="stylesheet" type="text/css" href="../css/style.css"/>
 	</head>
 	<body>
-	<div id="header">
-		<img src="../img/GrindHouse_Leather.png" alt="logo" id="logo"/>
-	</div>
+    <div id="header">
+            <img src="../img/GrindHouse_Leather.png" alt="logo" id="logo"/>
+    </div>
           
