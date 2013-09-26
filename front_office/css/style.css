@@ -5,7 +5,10 @@ html {
      max-width: 100%;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
+      
 }
+
+
 #header{
     text-align:center;
     width: 100%;
@@ -27,20 +30,29 @@ html {
     padding-bottom: 1%; 
 }
 #nav{
-    display: block;
     text-align: center;
     width:80%; 
     height:20%;
     margin-left:20%;
-    border: 1px solid #202020;
+    border: 1px solid blue;
 }
 #menu_gauche{
     text-align:center;
     position: relative;
+    margin-top:8%;
     width: 20%;
     border: 1px solid violet;
 }
 #footer{
     width: 100%;
-    border: 1px solid violet;
+    border: 1px solid green;
+    display:block;
+}
+
+#login{
+    text-align:center;
+    position: relative;
+    float:left;
+    width: 20%;
+    border: 1px solid gold;
 }
