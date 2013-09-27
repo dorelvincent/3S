@@ -1,6 +1,3 @@
-<?php 
-    include_once("../class/ct_Connexion.php");
-?>
 <div id="menu_gauche">
     <div id="search">
             <p><input type="button" name="recherche" value="Recherche" id="schearch" class="button_1" /></p>

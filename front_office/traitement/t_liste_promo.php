@@ -1,7 +1,7 @@
 <?php
-		//Récupération du nombre de promo à afficher;
+		//Rï¿½cupï¿½ration du nombre de promo ï¿½ afficher;
 		// Pour chaque promotion
-		// affichage du résultat
+		// affichage du rï¿½sultat
 		
 		include("../classes/ct_Connexion.php");
 ?>
@@ -22,7 +22,7 @@
 			
 					
 		<?php
-				// Récupération des promotions
+				// Rï¿½cupï¿½ration des promotions
 				$c = new Connexion();
 				$c->setReq("SELECT * from promotion;");
 				$d_promo = $c->Select();

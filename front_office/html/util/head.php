@@ -7,6 +7,8 @@
             <meta name="description" content="site de e-commerce en maroquinerie, sacs à main" />
             <link rel="shortcut icon" type="image/x-icon" href="../img/favicon.ico"/>
             <link rel="stylesheet" type="text/css" href="../css/style.css"/>
+            <script language=javascript type="text/javascript" src="../js/slider.js"></script>
+            
 	</head>
 	<body>
     <div id="header">
